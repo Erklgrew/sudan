@@ -23,7 +23,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '',
-            legend: '<span class="dot"></span> Armed clashes, explosions, and attacks<br><span class="dot2"></span> Sexual violence, excessive force against protesters, and abductions<br><span class="dot3"></span> Violence against civilians, looting, mob violence<br>    (ACLED)',
+            legend: 'Violence across Sudan<br><span class="dot"></span> Armed clashes, explosions, and attacks<br><span class="dot2"></span> Sexual violence, excessive force against protesters, and abductions<br><span class="dot3"></span> Violence against civilians, looting, mob violence<br>    (ACLED)',
             image: '',
           caption: '',
             description: 
@@ -86,7 +86,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '',
-            legend: 'Food insecurity<br><span class="dot"></span> Sressed<br><span class="dot"></span> Crisis<br><span class="dot"></span> Famine<br>    (FEWS Net)',
+            legend: 'Food insecurity<br><span class="dot"></span> Sressed<br><span class="dot2"></span> Crisis<br><span class="dot3"></span> Famine<br>    (FEWS Net)',
             image: '',
           caption: '',
             description: 
