@@ -23,7 +23,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '',
-            legend: '<span class="dot"></span>Armed clashes, explosions, and attacks<br><span class="dot2">Sexual violence, excessive force against protesters, and abductions<br><span class="dot3">Violence against civilians, looting, mob violence<br>(ACLED)<br>',
+            legend: '<span class="dot"></span> Armed clashes, explosions, and attacks<br><span class="dot2"> Sexual violence, excessive force against protesters, and abductions<br><span class="dot3"> Violence against civilians, looting, mob violence<br>(ACLED)<br>',
             image: '',
           caption: '',
             description: 
