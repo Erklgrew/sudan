@@ -55,7 +55,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '',
-            legend: '<em>Internally displaced persons</em><br><span class="dot"></span> <50,000<br><span class="dot2"></span> 50,000-200,000<br><span class="dot3"></span>>200,000<br>    <IOM>',
+            legend: '<strong>Internally displaced persons</strong> (IOM)<br><span class="dot"></span> <50,000<br><span class="dot2"></span> 50,000-200,000<br><span class="dot3"></span>>200,000<br>',
             image: '',
           caption: '',
             description: 
@@ -86,7 +86,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '',
-            legend: 'Food insecurity<br><span class="dot"></span> Sressed<br><span class="dot2"></span> Crisis<br><span class="dot3"></span> Famine<br>    (FEWS Net)',
+            legend: '<strong>Food insecurity</strong> (FEWS Net)<br><span class="dot"></span> Sressed<br><span class="dot2"></span> Crisis<br><span class="dot3"></span> Famine<br>    (FEWS Net)',
             image: '',
           caption: '',
             description: 
